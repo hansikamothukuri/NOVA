@@ -73,9 +73,10 @@ NOVA/
 ├── package.json
 └── README.md
 
-
-
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ⚙️ Setup & Installation
 Prerequisites
 
@@ -85,7 +86,7 @@ Node.js
 MySQL
 Git
 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/hansikamothukuri/NOVA
 cd nova
 2. Install dependencies
 npm install
