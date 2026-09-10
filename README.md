@@ -46,7 +46,9 @@ NOVA is a full-stack project management web application designed to help teams m
 
 - SCREENSHOTS:
 https://github.com/hansikamothukuri/NOVA/blob/7498e796b4e9d2799eaf5368807d6924a93c64ed/Screenshot%202026-09-10%20223651.png
-
+https://github.com/hansikamothukuri/NOVA/blob/0113767864fe6dd9aa17036d3da76a6310582343/Screenshot%202026-09-10%20224604.png
+https://github.com/hansikamothukuri/NOVA/blob/0113767864fe6dd9aa17036d3da76a6310582343/Screenshot%202026-09-10%20224515.png
+https://github.com/hansikamothukuri/NOVA/blob/0113767864fe6dd9aa17036d3da76a6310582343/Screenshot%202026-09-10%20224541.png
 
 
 
