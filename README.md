@@ -44,23 +44,6 @@ NOVA is a full-stack project management web application designed to help teams m
 - GitHub
 - VS Code
 
-## 📸 Screenshots
-
-### Dashboard
-
-![nova dashboard](reference_img/dashboard.png)
-
-### Projects
-
-![nova Meetform](reference_img/Meetform.png)
-
-### Tasks
-
-![nova projectform](reference_img/projectform.png)
-
-### Meetings
-
-![nova projectsection](reference_img/projectsection.png)
 
 
 
